@@ -72,6 +72,7 @@ Run the app:
 
 ```bash
 streamlit run app.py
+```
 
 - Enter age, BMI, number of children, and smoker status
 - Get predicted insurance charges
