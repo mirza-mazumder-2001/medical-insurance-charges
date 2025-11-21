@@ -28,3 +28,4 @@ if st.button("Predict"):
     st.success(f"Predicted Insurance Charge: ₹ {round(result,2)}")
 
 st.write("**Accuracy** = 75%")
+st.info("Built by Mirza Hussain Mazumder...")
