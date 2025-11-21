@@ -6,6 +6,7 @@ A **Linear Regression** model is trained using the *insurance.csv* dataset and d
 ---
 
 ## 📂 Project Structure
+```text
 Insurance_Prediction/
 │── insurance.csv
 │── model.sav
@@ -13,7 +14,7 @@ Insurance_Prediction/
 │── main.py (model training)
 │── README.md
 │── requirements.txt
-
+```
 ---
 
 ## 🚀 Project Features
