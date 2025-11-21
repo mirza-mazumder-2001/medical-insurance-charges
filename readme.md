@@ -82,7 +82,9 @@ streamlit run app.py
 
 The project requires the following Python packages:
 
+```bash
 pandas
 streamlit
 scikit-learn
 pickle
+```
