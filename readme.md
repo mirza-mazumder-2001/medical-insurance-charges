@@ -11,7 +11,7 @@ Insurance_Prediction/
 │── insurance.csv
 │── model.sav
 │── app.py
-│── main.py (model training)
+│── insurance_prediction.ipynb (model training)
 │── README.md
 │── requirements.txt
 ```
